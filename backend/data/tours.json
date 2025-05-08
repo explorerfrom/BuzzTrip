@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Old City Walking Tour",
+      "location": "Baku, Azerbaijan",
+      "price": 25,
+      "duration": "3 hours",
+      "image": "/images/baku-old-city.jpg",
+      "description": "Explore the historical core of Baku with a local guide."
+    },
+    {
+      "id": 2,
+      "title": "Gabala Adventure Day",
+      "location": "Gabala, Azerbaijan",
+      "price": 75,
+      "duration": "1 day",
+      "image": "/images/gabala-forest.jpg",
+      "description": "A full-day escape into the nature and mountains of Gabala."
+    }
+  ]
+  
